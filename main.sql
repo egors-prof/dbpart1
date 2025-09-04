@@ -18,6 +18,6 @@ CREATE TABLE IF NOT EXISTS shop.Orders(
 );
 
 SELECT*FROM shop.users;
-SELECT *FROM shop.orders
+SELECT*FROM shop.orders
 
 
